@@ -1,0 +1,2192 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.3/staging' branch; Version is '6000.3.10f1 (e35f0c77bd8e) revision 14901004'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-1135097" at "2026-03-27T22:43:54.3009116Z"
+OS: 'Windows 11  (10.0.26200) Education' Language: 'pt' Physical Memory: 16068 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-03-27T22:43:54Z
+
+COMMAND LINE ARGUMENTS:
+C:\Users\1135097\Desktop\6000.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/1135097/Desktop/Dragon Crashers - UI Toolkit Sample project
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+63169
+-job-worker-count
+9
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/1135097/Desktop/Dragon Crashers - UI Toolkit Sample project
+C:/Users/1135097/Desktop/Dragon Crashers - UI Toolkit Sample project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+Player connection [3060]  Target information:
+
+Player connection [3060]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 460858324 [EditorId] 460858324 [Version] 1048832 [Id] WindowsEditor(7,NBT-4SGZN74) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [3060]  * "[IP] 10.1.179.29 [Port] 0 [Flags] 2 [Guid] 460858324 [EditorId] 460858324 [Version] 1048832 [Id] WindowsEditor(7,NBT-4SGZN74) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [3060] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [3060] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 17.28 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.3.10f1 (e35f0c77bd8e)
+[Subsystems] Discovering subsystems at path C:/Users/1135097/Desktop/6000.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/1135097/Desktop/Dragon Crashers - UI Toolkit Sample project/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 6GB Laptop GPU (ID=0x25ec)
+    Vendor:   NVIDIA
+    VRAM:     6002 MB
+    Driver:   32.0.15.8195
+Initialize mono
+Mono path[0] = 'C:/Users/1135097/Desktop/6000.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/1135097/Desktop/6000.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Users/1135097/Desktop/6000.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56428
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/1135097/Desktop/6000.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001165 seconds.
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              af6d2d643ce040eaacc45bbd7a4f20ac
+  Correlation Id:          cb584323c563af9587850d12db646bf8
+  External correlation Id: 4197671268328304104
+  Machine Id:              hM0GLelx78jOPF5/zYZ+infd68s=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-1135097" (connect: 0.00s, validation: 0.00s, handshake: 1.32s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-1135097-notifications" at "2026-03-27T22:43:55.6240446Z"
+[Licensing::Module] Licensing Background thread has ended after 1.32s
+- Loaded All Assemblies, in  0.558 seconds
+Native extension for WindowsStandalone target not found
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.535 seconds
+Domain Reload Profiling: 1091ms
+	BeginReloadAssembly (193ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (64ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (59ms)
+	LoadAllAssembliesAndSetupDomain (220ms)
+		LoadAssemblies (190ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (215ms)
+			TypeCache.Refresh (212ms)
+				TypeCache.ScanAssembly (195ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (536ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (469ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (52ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (116ms)
+			ProcessInitializeOnLoadAttributes (205ms)
+			ProcessInitializeOnLoadMethodAttributes (92ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 4674168398223-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+- Loaded All Assemblies, in  1.080 seconds
+Refreshing native plugins compatible for Editor in 5.18 ms, found 7 plugins.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 7.61 ms, found 7 plugins.
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.124 seconds
+Domain Reload Profiling: 2199ms
+	BeginReloadAssembly (223ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (42ms)
+	RebuildCommonClasses (45ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (753ms)
+		LoadAssemblies (584ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (288ms)
+			TypeCache.Refresh (184ms)
+				TypeCache.ScanAssembly (167ms)
+			BuildScriptInfoCaches (90ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (1125ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (947ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (184ms)
+			ProcessInitializeOnLoadAttributes (417ms)
+			ProcessInitializeOnLoadMethodAttributes (333ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 6.77 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7328 unused Assets / (4.0 MB). Loaded Objects now: 8195.
+Memory consumption went from 164.8 MB to 160.9 MB.
+Total: 18.222800 ms (FindLiveObjects: 1.554500 ms CreateObjectMapping: 0.823000 ms MarkObjects: 13.301700 ms  DeleteObjects: 2.541500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 87198.622178 seconds.
+  path: Assets/Art Gameplay/Characters Normals/PSB_Character_Knight_Normal.psb
+  artifactKey: Guid(a085c85d3d14b4c999f6aac2df0c26f3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Art Gameplay/Characters Normals/PSB_Character_Knight_Normal.psb using Guid(a085c85d3d14b4c999f6aac2df0c26f3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'dcd3a87189f4955bc4fb032301f10a74') in 0.2465498 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 98
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Prefabs/Themes/ThemeManager.prefab
+  artifactKey: Guid(78971fd2721514f00a93253eaa84b415) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/Themes/ThemeManager.prefab using Guid(78971fd2721514f00a93253eaa84b415) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c939236b6333d163101a2c465e287a25') in 0.1631213 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 88
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Prefabs/UI/GameScreen.prefab
+  artifactKey: Guid(c7b7e13c1820d490ea9f4ca7b18b2c5e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/UI/GameScreen.prefab using Guid(c7b7e13c1820d490ea9f4ca7b18b2c5e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '4a25bf8628e69cbb97b203e92c61190b') in 0.2236521 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 124
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Prefabs/VFX/CoinMagnetController.prefab
+  artifactKey: Guid(91530244c04a75a4485154a092858e68) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/VFX/CoinMagnetController.prefab using Guid(91530244c04a75a4485154a092858e68) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '900cd8b8eafea94a3e69b7143cfdb28e') in 0.0471245 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Prefabs/Weapons/P_Weapon_Cutlass.prefab
+  artifactKey: Guid(b4bdc1c791e6c4f00a00707168bf101e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/Weapons/P_Weapon_Cutlass.prefab using Guid(b4bdc1c791e6c4f00a00707168bf101e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'af8258366105ad76056ec4ee207dc86a') in 0.0537614 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Audio/Music/AudioClip_Fanfares_Victory.wav
+  artifactKey: Guid(e00ac121338f9344b8e1da98b29b0e7b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Audio/Music/AudioClip_Fanfares_Victory.wav using Guid(e00ac121338f9344b8e1da98b29b0e7b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '4156a55c67e47a8ca1451b9219d3d0b4') in 0.043416 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Readme/BlocksInfoData/unite24roadmap.asset
+  artifactKey: Guid(9bb454634652741ee9c3b0d7c2954c46) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Readme/BlocksInfoData/unite24roadmap.asset using Guid(9bb454634652741ee9c3b0d7c2954c46) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '29301051de15b972beee4d881ecde483') in 0.0193223 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Prefabs/Weapons/P_Weapon_Sword.prefab
+  artifactKey: Guid(97381e65ef4dd40658e3f2a2b82c1828) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/Weapons/P_Weapon_Sword.prefab using Guid(97381e65ef4dd40658e3f2a2b82c1828) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e9ab82457ecca501cbf14b3de1c6e1a6') in 0.0381295 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Readme/Editor/WelcomeInspectorEditor.cs
+  artifactKey: Guid(3173bdb61825a4465ab58bfe44f176fa) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Readme/Editor/WelcomeInspectorEditor.cs using Guid(3173bdb61825a4465ab58bfe44f176fa) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f97384c5281bdd0658a755c91ff8c897') in 0.01594 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Readme/Images/ebook.png
+  artifactKey: Guid(11aef0fd6f2644c0a9bc1e3405e4989b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Readme/Images/ebook.png using Guid(11aef0fd6f2644c0a9bc1e3405e4989b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e6dbe570de01dff2bc5f80d062c422bb') in 0.0446733 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Audio/MainAudioMixer.mixer
+  artifactKey: Guid(ac794248e9b1e8a4195696f279f2d1cc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Audio/MainAudioMixer.mixer using Guid(ac794248e9b1e8a4195696f279f2d1cc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter)Refreshing native plugins compatible for Editor in 8.12 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+ -> (artifact id: 'da3e84d8c27a849aac551eaf4f67e079') in 0.0420992 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Art Gameplay/VFXTextures/Sprite_Shadow.png
+  artifactKey: Guid(67fb2d307708541a39a2a823bfc4179d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Art Gameplay/VFXTextures/Sprite_Shadow.png using Guid(67fb2d307708541a39a2a823bfc4179d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '343eef87338415a31501f06a9d4e0c23') in 0.0200211 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/FX/Prefabs/P_Lava_Flowing_Vertical.prefab
+  artifactKey: Guid(f7a1c0552f9934bc78601b678201e764) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/FX/Prefabs/P_Lava_Flowing_Vertical.prefab using Guid(f7a1c0552f9934bc78601b678201e764) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a9b6d6664a2b808486600773229bd2bb') in 0.0268667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AddressableAssetsData/AssetGroups/Localization-Assets-English (en).asset
+  artifactKey: Guid(c249055f10de342948ad6c2bbe92ded5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AddressableAssetsData/AssetGroups/Localization-Assets-English (en).asset using Guid(c249055f10de342948ad6c2bbe92ded5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a36b2caac1428f9ebd9582a30756799f') in 0.0162371 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Art Gameplay/Textures/Sprite_Stalactites_Blur_B.png
+  artifactKey: Guid(31ca05de6afcb4f519c0912552ec1623) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Art Gameplay/Textures/Sprite_Stalactites_Blur_B.png using Guid(31ca05de6afcb4f519c0912552ec1623) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '406632dfd1a4f79669a89c11e5c7b6b6') in 0.0251897 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Localization/StringTables/SettingsTable Shared Data.asset
+  artifactKey: Guid(dade14b2149874cc188fc560cf8f29d8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Localization/StringTables/SettingsTable Shared Data.asset using Guid(dade14b2149874cc188fc560cf8f29d8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b85a48ea5c7b58610646e96faf260c6a') in 0.0166123 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Localization/AssetTables/flag-us.png
+  artifactKey: Guid(e8069edad5bbc4937a5683ebaab2d481) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Localization/AssetTables/flag-us.png using Guid(e8069edad5bbc4937a5683ebaab2d481) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8088e778a8a2f03a55169f2ef6819bfc') in 0.0247582 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Localization/AssetTables/FlagIconTable.asset
+  artifactKey: Guid(5431e45c8c84948a99f54f905120f658) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Localization/AssetTables/FlagIconTable.asset using Guid(5431e45c8c84948a99f54f905120f658) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter)The type Unity.Localization UnityEngine.Localization.Metadata.AssetTypeMetadata is being serialized by [SerializeReference], but is missing the [Serializable] attribute. To suppress this warning add [Serializable] or use [MakeSerializable].
+ -> (artifact id: '06bdaa58b9614a9fe4a2cd426e885ccd') in 0.0221154 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Scripts/Settings/PSDImporterOverride.cs
+  artifactKey: Guid(6dfb4f4442b364b0bbd773626249bc15) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/Settings/PSDImporterOverride.cs using Guid(6dfb4f4442b364b0bbd773626249bc15) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8699d2435f78b19582c166a533b98d7d') in 0.0131158 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Readme/UI/welcomeinspector.uxml
+  artifactKey: Guid(8561c5dd225814424b3c99a48291a4a2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Readme/UI/welcomeinspector.uxml using Guid(8561c5dd225814424b3c99a48291a4a2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8e8ac93b0a78778af0d68c508df47cfd') in 0.0195638 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Readme/Images/samplevideo.png
+  artifactKey: Guid(99680c7cc14ea47d0b01116259a30aab) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Readme/Images/samplevideo.png using Guid(99680c7cc14ea47d0b01116259a30aab) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd6d21f9ee6c0bdd3448cdd892c90df02') in 0.0164419 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Scripts/ScriptableObjects/SkillSO.cs
+  artifactKey: Guid(7ccdaf773113a6a4e8a2567e58b66259) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/ScriptableObjects/SkillSO.cs using Guid(7ccdaf773113a6a4e8a2567e58b66259) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'baae09e2b8b984015c5adaf4419d04a8') in 0.0126494 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Scripts/ScriptableObjects/ResourceLinkSO.cs
+  artifactKey: Guid(288e4763c1c9d4a8fba3dac352104de8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/ScriptableObjects/ResourceLinkSO.cs using Guid(288e4763c1c9d4a8fba3dac352104de8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c94dd5e4f406f01d50d783f7944ea425') in 0.0136988 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Scripts/Utilities/PositionToVisualElement.cs
+  artifactKey: Guid(563d05fc3ed044f739e50502f9a373a1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/Utilities/PositionToVisualElement.cs using Guid(563d05fc3ed044f739e50502f9a373a1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '2219a7f5ea2b1c6e35c542597689766d') in 0.0126699 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Scripts/Settings/PSDImporterOverrideEditor.cs
+  artifactKey: Guid(0d5ee6aa7d0c54d5ba99670270e39886) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/Settings/PSDImporterOverrideEditor.cs using Guid(0d5ee6aa7d0c54d5ba99670270e39886) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '12ef6c71f0c136f8308adffa2529f012') in 0.0130546 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Scripts/ScriptableObjects/LevelSO.cs
+  artifactKey: Guid(1afba0dd62e8a8740bdcf56bda058547) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/ScriptableObjects/LevelSO.cs using Guid(1afba0dd62e8a8740bdcf56bda058547) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c6c49b5351753f7635a0eb1262c01fe6') in 0.0140579 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Scripts/ScriptableObjects/MailMessageSO.cs
+  artifactKey: Guid(d8dd07ee0cc82d3428d57bd241c95768) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/ScriptableObjects/MailMessageSO.cs using Guid(d8dd07ee0cc82d3428d57bd241c95768) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'da64e09d44fa634f7ad2a40e6cec1644') in 0.0140079 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Scripts/Managers/SaveManager.cs
+  artifactKey: Guid(06dcebbc53cf0be4495b85b906f0d182) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/Managers/SaveManager.cs using Guid(06dcebbc53cf0be4495b85b906f0d182) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b02828072ab3c3dec7d2fbb1a07ab9b8') in 0.0141092 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Art Gameplay/Textures/Background_Cave.png
+  artifactKey: Guid(756d5125e980e4838801726ba57efcc7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Art Gameplay/Textures/Background_Cave.png using Guid(756d5125e980e4838801726ba57efcc7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5d647465e0f260dd2582cfe638791786') in 0.0316431 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Materials/Mat_Dragon_VFX_FireAlpha.mat
+  artifactKey: Guid(f60b9238aed1d4197a243c631f678b1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Mat_Dragon_VFX_FireAlpha.mat using Guid(f60b9238aed1d4197a243c631f678b1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ff3550b9c146bd875a27aa4cb4efac63') in 0.0232416 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Materials/Mat_VFX_Sparkles.mat
+  artifactKey: Guid(1ff30f05ad17944bcbc1384801e023a2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Mat_VFX_Sparkles.mat using Guid(1ff30f05ad17944bcbc1384801e023a2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ae6ace01ab689563c843a9d0c88fe2cd') in 0.0167115 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/VolumeProfiles/VolumeProfile_Game.asset
+  artifactKey: Guid(f5d79ac446f064a7cb0b323637c2d45f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/VolumeProfiles/VolumeProfile_Game.asset using Guid(f5d79ac446f064a7cb0b323637c2d45f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c684965a3c3ac681440dc35c8c64a217') in 0.0258341 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UI/PanelSettings/MainMenuPanelSettingsLandscape.asset
+  artifactKey: Guid(bcf58ff54d054a543830b7ae7a9c2892) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/PanelSettings/MainMenuPanelSettingsLandscape.asset using Guid(bcf58ff54d054a543830b7ae7a9c2892) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ea2201a65ba974252f846a8c61368bb5') in 0.0499745 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 62
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/UI/Reference/2a char-stats-screen.jpg
+  artifactKey: Guid(9cb6d32d1a1947044ba261364518eb45) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Reference/2a char-stats-screen.jpg using Guid(9cb6d32d1a1947044ba261364518eb45) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd4af13f691accdf754a9176f054ee02b') in 0.0274583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+  artifactKey: Guid(a02a7d8c237544f1962732b55a9aebf1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader using Guid(a02a7d8c237544f1962732b55a9aebf1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e69c76a2f346d749ef2fbbccf30fa2d0') in 0.0185215 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+  artifactKey: Guid(d930090c0cd643c7b55f19a38538c162) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc using Guid(d930090c0cd643c7b55f19a38538c162) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '99ebd8ee0a228c3b3bd257fa2064fe8a') in 0.0212737 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/UI/Reference/6 mail-screen.jpg
+  artifactKey: Guid(45b1c148a40a8f642a6fa7e3b4b5a27e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Reference/6 mail-screen.jpg using Guid(45b1c148a40a8f642a6fa7e3b4b5a27e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ea0a928c237d0105647d981073873f1b') in 0.0315574 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Timelines/UI/Timeline_UI_FadeFromBlack.playable
+  artifactKey: Guid(3cc1609eab78ceb4489e1ccfaafababb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Timelines/UI/Timeline_UI_FadeFromBlack.playable using Guid(3cc1609eab78ceb4489e1ccfaafababb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e9ad5014a0d85a8336bc22e0c5e1669a') in 0.0345004 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl
+  artifactKey: Guid(96de908384869cd409c75efa351d5edf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl using Guid(96de908384869cd409c75efa351d5edf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5ce8b59893edd23a5a5d50fe2963eed9') in 0.0221062 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UI/Reference/2b char-skills-screen.jpg
+  artifactKey: Guid(ac74d5988c2e00e4db06aa4b488c9d85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Reference/2b char-skills-screen.jpg using Guid(ac74d5988c2e00e4db06aa4b488c9d85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'eb4fd9f1faad1fd802d0507005aeb454') in 0.0275336 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader
+  artifactKey: Guid(0178fcb869bafef4690d177d31d17db8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader using Guid(0178fcb869bafef4690d177d31d17db8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '44448f48c8c05775277712450d7cc3dd') in 0.015391 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UI/Reference/GameScreenRef.png
+  artifactKey: Guid(5d1613f98a44b4f009da89a8e2115c80) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Reference/GameScreenRef.png using Guid(5d1613f98a44b4f009da89a8e2115c80) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'fb0a3e1ae559941223cc6836f5978034') in 0.0290648 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UI/PanelSettings/Example UITK Text Settings.asset
+  artifactKey: Guid(50d623b4e95e83a4dbb9465b7735975a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/PanelSettings/Example UITK Text Settings.asset using Guid(50d623b4e95e83a4dbb9465b7735975a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8d81e3874e4d5624f9bfef0d0477dac5') in 0.0754531 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/AddressableAssetsData/AssetGroups/Schemas/Localization-Assets-English (en)_ContentUpdateGroupSchema.asset
+  artifactKey: Guid(3c26ebc8c9ca1499daebeaf29d74940c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AddressableAssetsData/AssetGroups/Schemas/Localization-Assets-English (en)_ContentUpdateGroupSchema.asset using Guid(3c26ebc8c9ca1499daebeaf29d74940c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '26180483e08df1dd508efeca9744d4f6') in 0.014791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UI/Themes/RuntimeTheme-Default.tss
+  artifactKey: Guid(1a1c766e828b7a641a14f2da218674e6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Themes/RuntimeTheme-Default.tss using Guid(1a1c766e828b7a641a14f2da218674e6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '9b10f5f1811e58a057c7cf29d8dda40f') in 0.0282077 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 37
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/UI/Themes/RuntimeTheme-Portrait--Christmas.tss
+  artifactKey: Guid(f31bfc07703224025b3f9695cca7f377) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Themes/RuntimeTheme-Portrait--Christmas.tss using Guid(f31bfc07703224025b3f9695cca7f377) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ad75310c307ae403e5be9d80c4e8094a') in 0.0335613 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 63
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UI/Themes/RuntimeTheme-Landscape--Halloween.tss
+  artifactKey: Guid(d79b8bf7ffea9d846a040716d05afc73) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Themes/RuntimeTheme-Landscape--Halloween.tss using Guid(d79b8bf7ffea9d846a040716d05afc73) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '4d9944323e86279109c5db2b88fb5888') in 0.0367481 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 63
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UI/Uxml/ShopScreen.uxml
+  artifactKey: Guid(dff22c9f90bc46f438685e698954a5b5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Uxml/ShopScreen.uxml using Guid(dff22c9f90bc46f438685e698954a5b5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '09c55af6f0a40d4ce323f1001e0d873f') in 0.0369226 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 35
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/UI/Uxml/TabbedMenu.uxml
+  artifactKey: Guid(f8b43729948cc2545a84469cedb769ae) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Uxml/TabbedMenu.uxml using Guid(f8b43729948cc2545a84469cedb769ae) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ed163f38f9a31594b9003e02320bc515') in 0.0239519 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/UI/Uxml/MainMenu.uxml
+  artifactKey: Guid(0044bde9fe2cb644d86e6a952b507608) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Uxml/MainMenu.uxml using Guid(0044bde9fe2cb644d86e6a952b507608) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ff4b8e2de7dec3fcff2a30355e733c8b') in 0.0640103 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 159
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/AddressableAssetsData/AssetGroups/Schemas/Localization-Asset-Tables-English (en)_ContentUpdateGroupSchema.asset
+  artifactKey: Guid(942cbfbe1cb304c2cabcfe8344fd987f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AddressableAssetsData/AssetGroups/Schemas/Localization-Asset-Tables-English (en)_ContentUpdateGroupSchema.asset using Guid(942cbfbe1cb304c2cabcfe8344fd987f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '1f18bcb5c84d6d2061ca1dcd7f8a23df') in 0.0161943 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/UI/Uxml/MailScreen.uxml
+  artifactKey: Guid(5a34ad4b27d626448863cd68afb2f677) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Uxml/MailScreen.uxml using Guid(5a34ad4b27d626448863cd68afb2f677) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ffdc7bf56102da55539a71209cc89b98') in 0.0302218 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Art Gameplay/Characters/Base/SpriteLibrary_Character_Base_Bipedal.spriteLib
+  artifactKey: Guid(54544361953a298479fa5405cc82e86c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Art Gameplay/Characters/Base/SpriteLibrary_Character_Base_Bipedal.spriteLib using Guid(54544361953a298479fa5405cc82e86c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '4c718cbbd9ca0aabd650d1410d5f4a63') in 0.0162043 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Art Gameplay/Textures/Rocks/Sprite_Rock_Blur_A.png
+  artifactKey: Guid(7d7444642290945f68474e4861ba6d74) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Art Gameplay/Textures/Rocks/Sprite_Rock_Blur_A.png using Guid(7d7444642290945f68474e4861ba6d74) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '93d4e57453922d9d75544577339b4668') in 0.0274254 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Art Gameplay/Textures/CoinPile/Sprite_CoinPile_B.png
+  artifactKey: Guid(d0cf4fb8377fe4cceb369a672394e81a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Art Gameplay/Textures/CoinPile/Sprite_CoinPile_B.png using Guid(d0cf4fb8377fe4cceb369a672394e81a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ec981618a69124ea1b286a526869fdc1') in 0.0180614 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Art Gameplay/Textures/Column/Sprite_Rock_Column.png
+  artifactKey: Guid(673a4d9318e534cc9b1c0dbc9c4adf34) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Art Gameplay/Textures/Column/Sprite_Rock_Column.png using Guid(673a4d9318e534cc9b1c0dbc9c4adf34) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '54f928cf18cd95b131d53e905f8a4ca8') in 0.0274894 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Art Gameplay/Textures/Coin/Sprite_Coin_Normal.png
+  artifactKey: Guid(8e589593bb3744dac99d13808c6a1bcc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Art Gameplay/Textures/Coin/Sprite_Coin_Normal.png using Guid(8e589593bb3744dac99d13808c6a1bcc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a9932f827c6bad6d77d49315ab4a5902') in 0.0264942 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Art Gameplay/Weapons/Cutlass/Sprite_Weapon_Cutlass.png
+  artifactKey: Guid(8b1dff04865ad46f4a51903d36b51efc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Art Gameplay/Weapons/Cutlass/Sprite_Weapon_Cutlass.png using Guid(8b1dff04865ad46f4a51903d36b51efc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'fd7eda0382ded9d913db195b2d4d8db6') in 0.0158626 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Art Gameplay/Characters/Skeleton/SpriteLibrary_Character_Skeleton.spriteLib
+  artifactKey: Guid(98d3d47acab6b3c4f994fd8340532709) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Art Gameplay/Characters/Skeleton/SpriteLibrary_Character_Skeleton.spriteLib using Guid(98d3d47acab6b3c4f994fd8340532709) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '342a42c842d3194ebf713d744cd69a95') in 0.01234 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Art Gameplay/Textures/Rocks/Sprite_Rock_Blur_B.png
+  artifactKey: Guid(abb440e24557d44e2baad3121540efcf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Art Gameplay/Textures/Rocks/Sprite_Rock_Blur_B.png using Guid(abb440e24557d44e2baad3121540efcf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd5de74f476c206372a3dc1cc91437032') in 0.0276382 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Art Gameplay/Weapons/Axe_B/Sprite_Weapon_Axe_B.png
+  artifactKey: Guid(6b7d3fd095a2e4b5fb6ff92f830d9c47) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Art Gameplay/Weapons/Axe_B/Sprite_Weapon_Axe_B.png using Guid(6b7d3fd095a2e4b5fb6ff92f830d9c47) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'bacb7adbc2c100d4ec055ff10eb7dbfa') in 0.01672 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Art Gameplay/Textures/Ground/Spritesheet_Tiles_Ground_Normal.png
+  artifactKey: Guid(24e539a0a5f40476dbb5dee77adc835a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Art Gameplay/Textures/Ground/Spritesheet_Tiles_Ground_Normal.png using Guid(24e539a0a5f40476dbb5dee77adc835a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '454afa5b947982fddc1a16bcf45cb5f1') in 0.0284493 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e168b7891c05c99418c8bec9dd76ec71') in 0.0263583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/FX/Aura/_Prefabs/Aura.prefab
+  artifactKey: Guid(ca9c23e8769d4e9499afe08f61700cb2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/FX/Aura/_Prefabs/Aura.prefab using Guid(ca9c23e8769d4e9499afe08f61700cb2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '11685be865a6d02d47d3418a62f193a2') in 0.0792877 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/MobileDependencyResolver/Editor/1.2.185/Google.PackageManagerResolver.dll
+  artifactKey: Guid(bf27b3f704244da0af729a6737adb7f1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/MobileDependencyResolver/Editor/1.2.185/Google.PackageManagerResolver.dll using Guid(bf27b3f704244da0af729a6737adb7f1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'cd84413167944f65fd506fcec3ed6e61') in 0.0169022 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/FX/LevelUp/Materials/VerticalRay_Mat.mat
+  artifactKey: Guid(c08f8cce11dc54a4cbb46256fb2805c7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/FX/LevelUp/Materials/VerticalRay_Mat.mat using Guid(c08f8cce11dc54a4cbb46256fb2805c7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '78c09c88b57deeb71326b1efd110fc9f') in 0.0329836 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/FX/CoinGemMagnet/Prefabs/P_VFX_GemMagnetFX Variant.prefab
+  artifactKey: Guid(26776ef0da9cf461596572d5df5aa28e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/FX/CoinGemMagnet/Prefabs/P_VFX_GemMagnetFX Variant.prefab using Guid(26776ef0da9cf461596572d5df5aa28e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e62bc0b51665b3587a04938de4e1e517') in 0.0289708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/FX/UnitAbilities/Witch/Mat_Witch_VFX_ThunderBolt.mat
+  artifactKey: Guid(8bf1381f67f725a4b97887a1cf0ff1a9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/FX/UnitAbilities/Witch/Mat_Witch_VFX_ThunderBolt.mat using Guid(8bf1381f67f725a4b97887a1cf0ff1a9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '7eb99aace369dfc01b6602d722ca4f1d') in 0.025495 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UI/Uxml/PauseScreen.uxml
+  artifactKey: Guid(f910f0cedcaa5104daa6f49e54ef48ce) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Uxml/PauseScreen.uxml using Guid(f910f0cedcaa5104daa6f49e54ef48ce) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '1f38e9f5b81e63bb4c6ed584e072c459') in 0.0263006 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/AddressableAssetsData/AssetGroups/Schemas/Localization-String-Tables-English (en)_BundledAssetGroupSchema.asset
+  artifactKey: Guid(b8f7aefad7efc40c5ae6c337acb5a1fa) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AddressableAssetsData/AssetGroups/Schemas/Localization-String-Tables-English (en)_BundledAssetGroupSchema.asset using Guid(b8f7aefad7efc40c5ae6c337acb5a1fa) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '626b9b7667aa951e0e884dfce5629fb3') in 0.0188055 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/FX/LevelUp/_Prefabs/VerticalRays.prefab
+  artifactKey: Guid(637761bf34881f5408db543badc3ebbd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/FX/LevelUp/_Prefabs/VerticalRays.prefab using Guid(637761bf34881f5408db543badc3ebbd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '01c910fa1a2e0ddf8ae17d27a5d7868e') in 0.0369467 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Resources/GameData/Equipment/EquipmentCommonLeatherBoots.asset
+  artifactKey: Guid(77e9429c2dc728c4c97858722491e09d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Resources/GameData/Equipment/EquipmentCommonLeatherBoots.asset using Guid(77e9429c2dc728c4c97858722491e09d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5dec6a2a6fb5e97859774320d0454694') in 0.0146791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Resources/GameData/Equipment/EquipmentCommonAxe.asset
+  artifactKey: Guid(309d1a6d4f62424489de34a96da222e4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Resources/GameData/Equipment/EquipmentCommonAxe.asset using Guid(309d1a6d4f62424489de34a96da222e4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '16c9ac8adbe94ab4a8cbb2838212194d') in 0.0233102 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Resources/GameData/Links/3 BlogLink.asset
+  artifactKey: Guid(480d0343ec47448d5b3ccde06542570e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Resources/GameData/Links/3 BlogLink.asset using Guid(480d0343ec47448d5b3ccde06542570e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '448b936f2b471af5314ce5586c7a0788') in 0.027491 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Resources/GameData/Links/4 AssetStoreLink.asset
+  artifactKey: Guid(e883d5731bb3d4057b57471be9f9396c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Resources/GameData/Links/4 AssetStoreLink.asset using Guid(e883d5731bb3d4057b57471be9f9396c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0d53a93e3e54bb5ae6aca06578345dc6') in 0.0245401 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Resources/GameData/Equipment/EquipmentRareKnightHelmet.asset
+  artifactKey: Guid(6833e7936bd370846a7f95662ccd92bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Resources/GameData/Equipment/EquipmentRareKnightHelmet.asset using Guid(6833e7936bd370846a7f95662ccd92bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0318f1847751c5cc8d485f4b6127279d') in 0.0241272 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Resources/GameData/Equipment/EquipmentRareGloves.asset
+  artifactKey: Guid(b88ca8756fbe99f4792340fcaec9df9f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Resources/GameData/Equipment/EquipmentRareGloves.asset using Guid(b88ca8756fbe99f4792340fcaec9df9f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '21e4229852d8bb7eb4885612b92900f6') in 0.0250867 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Resources/GameData/Equipment/EquipmentSpecialSword+8.asset
+  artifactKey: Guid(9e214618b00857c43891a91c2a4310bc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Resources/GameData/Equipment/EquipmentSpecialSword+8.asset using Guid(9e214618b00857c43891a91c2a4310bc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '10ba940c9127499f873a717291e52930') in 0.0133808 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Resources/GameData/Equipment/EquipmentSpecialSwordVorpal.asset
+  artifactKey: Guid(85a6443b28d64814da1afeb5e7f7a67d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Resources/GameData/Equipment/EquipmentSpecialSwordVorpal.asset using Guid(85a6443b28d64814da1afeb5e7f7a67d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '4344800b47c931814990bf0bdda30110') in 0.0119733 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/UI/Reference/7c game-win-screen.jpg
+  artifactKey: Guid(007ac5eff7e03284c82913a17c70a657) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Reference/7c game-win-screen.jpg using Guid(007ac5eff7e03284c82913a17c70a657) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0ab41f90d3a0c5a0d6c3fab4bce7ae1c') in 0.0253944 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Scripts/Gameplay/Unit/UnitController.cs
+  artifactKey: Guid(25f1feeff57944d4fa3583318cf192df) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/Gameplay/Unit/UnitController.cs using Guid(25f1feeff57944d4fa3583318cf192df) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '228bb6d31bc1018af54a38dffa691ef3') in 0.0105562 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Scripts/Gameplay/Unit/UnitCharacterAnimationBehaviour.cs
+  artifactKey: Guid(87fbf3469594a8c4c9c93d8e4a9b2c15) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/Gameplay/Unit/UnitCharacterAnimationBehaviour.cs using Guid(87fbf3469594a8c4c9c93d8e4a9b2c15) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '80499b2db881f7db45e44228fe71c926') in 0.0121628 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Resources/GameData/Skills/WitchSkill2.asset
+  artifactKey: Guid(47084178b4b1b594497f14179eb8aaf3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Resources/GameData/Skills/WitchSkill2.asset using Guid(47084178b4b1b594497f14179eb8aaf3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '9500b42671e2a0b8df7ee8f76351db4d') in 0.0362992 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Scripts/UI/Controllers/HomeScreenController.cs
+  artifactKey: Guid(45151dc10d295be4fb6ca03fcd36f2c6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/UI/Controllers/HomeScreenController.cs using Guid(45151dc10d295be4fb6ca03fcd36f2c6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '7f5c29573c0591665267ca76029c0af7') in 0.0126627 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Scripts/UI/Components/CharacterCard.cs
+  artifactKey: Guid(aea8883fd2b5be444adbc3482643aad4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/UI/Components/CharacterCard.cs using Guid(aea8883fd2b5be444adbc3482643aad4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b8d99ae899326cd5b50520c01e90f44b') in 0.014561 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Resources/GameData/Skills/WitchSkill3.asset
+  artifactKey: Guid(6eefed88ff5de1d4aa655ef8c6a44ece) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Resources/GameData/Skills/WitchSkill3.asset using Guid(6eefed88ff5de1d4aa655ef8c6a44ece) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '9913ac95c72e60b1897609a85c05dbdc') in 0.0160052 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Scripts/UI/Components/TabbedMenu.cs
+  artifactKey: Guid(9e3f3f935aa6776479777cddbdeee4b6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/UI/Components/TabbedMenu.cs using Guid(9e3f3f935aa6776479777cddbdeee4b6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0c5c82ccdcc336ea7503e949204bd1ea') in 0.0133431 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Scripts/UI/Components/RadialProgress.cs
+  artifactKey: Guid(04e93f7f044aa4f76bb3a3200a2ca95f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/UI/Components/RadialProgress.cs using Guid(04e93f7f044aa4f76bb3a3200a2ca95f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5a895377ac762d97c35ad42be167d012') in 0.0107649 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Scripts/UI/Components/SlideToggle.cs
+  artifactKey: Guid(6f09ec0853325ac48b70bd0ee821bbc3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/UI/Components/SlideToggle.cs using Guid(6f09ec0853325ac48b70bd0ee821bbc3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '77832505004b7e5a9bafd463ab8459e1') in 0.0174929 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Scripts/UI/Controllers/TabbedMenuController.cs
+  artifactKey: Guid(03bc8f101dd6d5d449fbc482effc66c0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/UI/Controllers/TabbedMenuController.cs using Guid(03bc8f101dd6d5d449fbc482effc66c0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c49438afefb8464478c48a009638d6ed') in 0.0138902 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/FX/LevelUp/Materials/VerticalSteaks_Mat.mat
+  artifactKey: Guid(3ffcd97c17f498341b75c657dcccf1b7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/FX/LevelUp/Materials/VerticalSteaks_Mat.mat using Guid(3ffcd97c17f498341b75c657dcccf1b7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b1c9dfdf28ed9c85c7abd23399529fa6') in 0.0253964 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Scripts/UI/UIViews/MailTabView.cs
+  artifactKey: Guid(b6f4d8e6c712a41d18d94575f97cc340) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/UI/UIViews/MailTabView.cs using Guid(b6f4d8e6c712a41d18d94575f97cc340) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ce126f27199a4c1bf3dee5eb0f934493') in 0.0145239 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Timelines/Units/Witch/Timeline_Witch_Attack_Basic.playable
+  artifactKey: Guid(57f8ad4feeada2a409d7f7537cb84eb9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Timelines/Units/Witch/Timeline_Witch_Attack_Basic.playable using Guid(57f8ad4feeada2a409d7f7537cb84eb9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '2dd46fdc0eef3d761d26ad8353839922') in 0.0298857 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Scripts/UI/UIViews/UIView.cs
+  artifactKey: Guid(5cfe3b43662bc4e5796899b4da7b6f20) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/UI/UIViews/UIView.cs using Guid(5cfe3b43662bc4e5796899b4da7b6f20) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '26d086744ace7a1467e80c7b903b53b4') in 0.0109143 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '688c3ee4d2bfb4c957e2e5a3983cb894') in 0.0237179 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Scripts/Gameplay/Unit/UnitAudioBehaviour.cs
+  artifactKey: Guid(b29f1a52ba4bc3d4ba16bccbfb20a7ad) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/Gameplay/Unit/UnitAudioBehaviour.cs using Guid(b29f1a52ba4bc3d4ba16bccbfb20a7ad) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '45de98673261496dc4f5c47d88cda664') in 0.0128343 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Prefabs/UI/FpsCounter.prefab
+  artifactKey: Guid(44c8ec33a45c245fba122706e625d9f0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/UI/FpsCounter.prefab using Guid(44c8ec33a45c245fba122706e625d9f0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e6fa887389b074332777a0e4428021f3') in 0.023408 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Localization/AssetTables/flag-uk.png
+  artifactKey: Guid(2602787e205094273987759b4fd16795) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Localization/AssetTables/flag-uk.png using Guid(2602787e205094273987759b4fd16795) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '89462b828a0fad3d3b8c497c9372328a') in 0.0254011 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Audio/gameplay/AudioClip_Dragon_BreathScream.wav
+  artifactKey: Guid(bf1c9f40cf4c242c6910dbdfbf787b7c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Audio/gameplay/AudioClip_Dragon_BreathScream.wav using Guid(bf1c9f40cf4c242c6910dbdfbf787b7c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ef9131be56493f77d0bd8ec043087da2') in 0.0276538 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Timelines/Units/Skeleton/Timeline_Skeleton_Attack_Basic.playable
+  artifactKey: Guid(b78d7e8a4d7d22d41bc6a3d749df73d2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Timelines/Units/Skeleton/Timeline_Skeleton_Attack_Basic.playable using Guid(b78d7e8a4d7d22d41bc6a3d749df73d2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '560d80d33cdc81a4beef16d772bf2277') in 0.0291687 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/FX/CoinGemMagnet/ObjectPool/Data_ObjectPool_ForceField.asset
+  artifactKey: Guid(d4559642a3bea004aa10adb66c578670) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/FX/CoinGemMagnet/ObjectPool/Data_ObjectPool_ForceField.asset using Guid(d4559642a3bea004aa10adb66c578670) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c7dbe75cce9d6ec6411af68489acb811') in 0.0157733 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/UI/Uss/Base/Buttons.uss
+  artifactKey: Guid(1677b2c0e41604415b56804bf6a04fd3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Uss/Base/Buttons.uss using Guid(1677b2c0e41604415b56804bf6a04fd3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b3356cc37445350d4fbc691bf5f0f254') in 0.0160876 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UI/Uss/CustomElements/HealthBar.uss
+  artifactKey: Guid(e59348a14f03b9343ab13481f85f3e4f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Uss/CustomElements/HealthBar.uss using Guid(e59348a14f03b9343ab13481f85f3e4f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '93c676be834afb47f59b7505a402020d') in 0.0231003 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UI/Textures/Misc/icon-shield.png
+  artifactKey: Guid(e719c595694c74aec8169562cd004462) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Textures/Misc/icon-shield.png using Guid(e719c595694c74aec8169562cd004462) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd92a1a5e2483554243e8d85d192f56c4') in 0.0228811 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/UI/Textures/RenderTextures/coinsVFXRenderTexturePortrait.renderTexture
+  artifactKey: Guid(2c9508ec55d364e9b8e114ceb3b73da6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Textures/RenderTextures/coinsVFXRenderTexturePortrait.renderTexture using Guid(2c9508ec55d364e9b8e114ceb3b73da6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '95f1cc26ede0c12e732a6a7e3a0dec28') in 0.0253244 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/UI/Textures/Misc/gem-animation.psd
+  artifactKey: Guid(68d17aab30c754b599902da691dd0e9c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Textures/Misc/gem-animation.psd using Guid(68d17aab30c754b599902da691dd0e9c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '36de58864a2b5276185c5c8918b97e6d') in 0.0623654 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/UI/Textures/Cursors/Cursor_B.png
+  artifactKey: Guid(f3c815d95da3a483385620d7bd8fc545) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Textures/Cursors/Cursor_B.png using Guid(f3c815d95da3a483385620d7bd8fc545) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '52833c30b43bcac34caf34810e8f1f97') in 0.0157181 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Scripts/UI/UIViews/DebugLogView.cs
+  artifactKey: Guid(3aa1449fd69234c0590d2d2aac4273c0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/UI/UIViews/DebugLogView.cs using Guid(3aa1449fd69234c0590d2d2aac4273c0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'dd4abf49b43a35f92a1261d888cda1f9') in 0.0120129 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UI/Textures/Icons/Skill_icons.psd
+  artifactKey: Guid(a263e50625394fe4a891952f2f05257a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Textures/Icons/Skill_icons.psd using Guid(a263e50625394fe4a891952f2f05257a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e04bd3e4fc58bc03e37e53c4cc96fbc0') in 0.03141 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 42
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UI/Textures/CharacterPortraits/Knight_meter_v2.png
+  artifactKey: Guid(b54af6a8f00f55f409935ecfef9e5607) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Textures/CharacterPortraits/Knight_meter_v2.png using Guid(b54af6a8f00f55f409935ecfef9e5607) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '9029234b96d46d498eb907803178ed78') in 0.0188561 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UI/Uxml/Reference/ReferenceOptionsScreen.uxml
+  artifactKey: Guid(54f3266a6eae1964cadc81989eac368f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Uxml/Reference/ReferenceOptionsScreen.uxml using Guid(54f3266a6eae1964cadc81989eac368f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '615ef15079009e338610f35824bcb24d') in 0.0295959 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/UI/Uxml/Reference/ReferenceGameWinScreen.uxml
+  artifactKey: Guid(a12b666b2ab837847939eb8694a78c8b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Uxml/Reference/ReferenceGameWinScreen.uxml using Guid(a12b666b2ab837847939eb8694a78c8b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '68e4b7c76ceab69ea918a5201cdf4222') in 0.0132678 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UI/Uxml/Reference/ReferenceShopGem.uxml
+  artifactKey: Guid(6c2fcb0dded05bf49a0b2adb29ebcf20) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Uxml/Reference/ReferenceShopGem.uxml using Guid(6c2fcb0dded05bf49a0b2adb29ebcf20) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'dfec694f951bb2999be3b6b2db0f14a1') in 0.0156766 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Animations/Characters/AnimClips/Dragon/AnimClip_Character_Dragon_Sleeping.anim
+  artifactKey: Guid(b329fe83589e1435cadd4f6bef31650f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Animations/Characters/AnimClips/Dragon/AnimClip_Character_Dragon_Sleeping.anim using Guid(b329fe83589e1435cadd4f6bef31650f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '7e8fa2ae85c2e82fd035f4b2ad89479b') in 0.0203265 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/UI/Uxml/Reference/ReferenceCharBioPanel.uxml
+  artifactKey: Guid(6b7519043a2b6ff4d94eac8e5ff0add9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Uxml/Reference/ReferenceCharBioPanel.uxml using Guid(6b7519043a2b6ff4d94eac8e5ff0add9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e31ff723f4637fbc18cab3b56ec6bf8a') in 0.0140948 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UI/Uss/Screens/PauseScreen.uss
+  artifactKey: Guid(5a2eb5b505d44f248bda8b0e86354e06) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Uss/Screens/PauseScreen.uss using Guid(5a2eb5b505d44f248bda8b0e86354e06) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5cc895c2d266b12228d72a883913be4f') in 0.019696 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UI/Uss/ThemeStyles/Decoration-Default.uss
+  artifactKey: Guid(d72b99c35b8544cc6b169326f57c7991) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Uss/ThemeStyles/Decoration-Default.uss using Guid(d72b99c35b8544cc6b169326f57c7991) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ac2770c74dd1658b1a67ad64002f414a') in 0.0097417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UI/Uss/Toolbars/OptionsBar.uss
+  artifactKey: Guid(a4ff7e7edea0d9e4da693f69ac77ff05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Uss/Toolbars/OptionsBar.uss using Guid(a4ff7e7edea0d9e4da693f69ac77ff05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '1999f35c172c34cf3e45bba568b5eb38') in 0.0193686 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Animations/Characters/AnimClips/Dragon/AnimClip_Character_Dragon_GetHit.anim
+  artifactKey: Guid(35d83510141de4b07bb41c9d3f3b8f40) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Animations/Characters/AnimClips/Dragon/AnimClip_Character_Dragon_GetHit.anim using Guid(35d83510141de4b07bb41c9d3f3b8f40) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '41104f331fa2e55f8223d60a9c40f57d') in 0.0195362 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Scripts/UI/UIViews/MenuBarView.cs
+  artifactKey: Guid(e20d13df481ae4a50bd26a036456c7f5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/UI/UIViews/MenuBarView.cs using Guid(e20d13df481ae4a50bd26a036456c7f5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd70e602e24d7bd37e5123b2c69945db3') in 0.012463 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/UI/Uss/CustomElements/SlideToggle.uss
+  artifactKey: Guid(c6c441a1209d7ec4e918791ea0addc99) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/Uss/CustomElements/SlideToggle.uss using Guid(c6c441a1209d7ec4e918791ea0addc99) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ea4c326b588c1f16a0872e633a7371d5') in 0.014109 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/FX/UnitAbilities/Wolfman/AxeSparks/Sprite_Spark.tif
+  artifactKey: Guid(228652bda78afdd448d50950ba99ad5a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/FX/UnitAbilities/Wolfman/AxeSparks/Sprite_Spark.tif using Guid(228652bda78afdd448d50950ba99ad5a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'fc9c09bda9409edfbba2d920ded48ff9') in 0.022778 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/FX/UnitAbilities/Dragon/Materials/Mat_Dragon_VFX_FireAlpha.mat
+  artifactKey: Guid(70359751edd22ec4fb2b5f3f07c001bd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/FX/UnitAbilities/Dragon/Materials/Mat_Dragon_VFX_FireAlpha.mat using Guid(70359751edd22ec4fb2b5f3f07c001bd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '3fde81f14a80f59e59bac4cbacf6937e') in 0.0275602 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Resources/GameData/ShopItems/Gems/ShopItemPileOfGems.asset
+  artifactKey: Guid(660c12a4975a0c24db2db78cdc97e1ee) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Resources/GameData/ShopItems/Gems/ShopItemPileOfGems.asset using Guid(660c12a4975a0c24db2db78cdc97e1ee) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '581227c26a3f52760a52ff109fa01e13') in 0.0267914 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/FX/UnitAbilities/Dragon/Materials/Mat_Dragon_VFX_FireAdditive.mat
+  artifactKey: Guid(4bfa83e8cbf524542ba782ba47029dd3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/FX/UnitAbilities/Dragon/Materials/Mat_Dragon_VFX_FireAdditive.mat using Guid(4bfa83e8cbf524542ba782ba47029dd3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '4c8ede0f62e90157b3456fd31af5e79a') in 0.0238113 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Resources/GameData/ShopItems/Potions/ShopItemPowerPotion.asset
+  artifactKey: Guid(5761861eaa1b61846a3cbadaedf0e4e1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Resources/GameData/ShopItems/Potions/ShopItemPowerPotion.asset using Guid(5761861eaa1b61846a3cbadaedf0e4e1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ea8171c523da57602c9934d3684b23da') in 0.0238945 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 18
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Animations/Characters/AnimClips/Wolfman/Anim_Character_Wolfman_Attack.anim
+  artifactKey: Guid(f7abed3a0ce56c249b0743e25e988ca0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Animations/Characters/AnimClips/Wolfman/Anim_Character_Wolfman_Attack.anim using Guid(f7abed3a0ce56c249b0743e25e988ca0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b96c35ddc257555d60a5c8c3d3f4af7f') in 0.0189706 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Resources/GameData/ShopItems/Gems/ShopItemCoupleOfGems.asset
+  artifactKey: Guid(eba460592b19a254eaf5acd0a05e9477) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Resources/GameData/ShopItems/Gems/ShopItemCoupleOfGems.asset using Guid(eba460592b19a254eaf5acd0a05e9477) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e2792326407b946e5bb6ac068bbb8468') in 0.0260603 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Scripts/Gameplay/Utilities/ObjectPool/ObjectPoolBehaviour.cs
+  artifactKey: Guid(02be39407f214a047aedbae938017309) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/Gameplay/Utilities/ObjectPool/ObjectPoolBehaviour.cs using Guid(02be39407f214a047aedbae938017309) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'afc06da6bd93abbb6c011b6689cf5efc') in 0.0114166 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.34 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 44 unused Assets / (1.8 MB). Loaded Objects now: 8200.
+Memory consumption went from 161.3 MB to 159.5 MB.
+Total: 10.869700 ms (FindLiveObjects: 0.365900 ms CreateObjectMapping: 0.176000 ms MarkObjects: 9.978500 ms  DeleteObjects: 0.348500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+ADTM: Control thread waiting for realtime thread timed out, have to lock...
+- Loaded All Assemblies, in  1.921 seconds
+Refreshing native plugins compatible for Editor in 7.71 ms, found 7 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.126 seconds
+Domain Reload Profiling: 3043ms
+	BeginReloadAssembly (1234ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1070ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (609ms)
+		LoadAssemblies (437ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (255ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (229ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (1127ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (914ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (189ms)
+			ProcessInitializeOnLoadAttributes (448ms)
+			ProcessInitializeOnLoadMethodAttributes (262ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (17ms)
+Refreshing native plugins compatible for Editor in 6.49 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7326 unused Assets / (3.6 MB). Loaded Objects now: 8207.
+Memory consumption went from 166.8 MB to 163.2 MB.
+Total: 14.118200 ms (FindLiveObjects: 0.583300 ms CreateObjectMapping: 0.482100 ms MarkObjects: 11.124600 ms  DeleteObjects: 1.926700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 15.863444 seconds.
+  path: Assets/AddressableAssetsData/DefaultObject.asset
+  artifactKey: Guid(0e903f9058ca940d1a7a9fe9312158f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddressableAssetsData/DefaultObject.asset using Guid(0e903f9058ca940d1a7a9fe9312158f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '765ecac0234ffa4ae7062609c2a5949f') in 0.0281034 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.002096 seconds.
+  path: Assets/Characters/PV_Character_Base_Bipedal.prefab
+  artifactKey: Guid(a08d5d72934b1274b9265acd9b73a14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/PV_Character_Base_Bipedal.prefab using Guid(a08d5d72934b1274b9265acd9b73a14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a6be56d57da609a45120d098d2607747') in 0.8940081 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 398
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Characters/PV_Character_Witch.prefab
+  artifactKey: Guid(601caeefd26acb34592f1a07ee796ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/PV_Character_Witch.prefab using Guid(601caeefd26acb34592f1a07ee796ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)shoulder plate R is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+arm R is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+hand R bottom is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+hair front is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+mouth is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+eye L is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+eye R is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+head is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+neck element is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+coat front is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+neck is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+torso is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+leg R is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+leg L is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+coat back is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+shoulder plate L is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+hand L top is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+arm L is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+hair back is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+shoulder plate R is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+arm R is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+hand R bottom is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+hair front is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+mouth is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+eye L is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+eye R is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+head is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+neck element is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+coat front is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+neck is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+torso is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+leg R is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+leg L is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+coat back is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+shoulder plate L is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+hand L top is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+arm L is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+hair back is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+UnityEngine.U2D.Animation.DeformationManager:AddSpriteSkin (UnityEngine.U2D.Animation.SpriteSkin) (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs:178)
+UnityEngine.U2D.Animation.SpriteSkin:OnEnable () (at ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/SpriteSkin.cs:432)
+UnityEngine.SceneManagement.SceneManager:MoveGameObjectToScene (UnityEngine.GameObject,UnityEngine.SceneManagement.Scene)
+UnityEditor.PreviewScene:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.PreviewRenderUtility:AddManagedGO (UnityEngine.GameObject)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object,bool)
+UnityEditor.GameObjectInspector:GetPreviewData (bool)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: ./Library/PackageCache/com.unity.2d.animation@7396d8477ca9/Runtime/BatchedDeformation/DeformationManager.cs Line: 178)
+
+ -> (artifact id: '3a6c08e4fe038abec28a7cccca840a4c') in 0.499948 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 686
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+ADTM: Control thread waiting for realtime thread timed out, have to lock...
+- Loaded All Assemblies, in  5.358 seconds
+Refreshing native plugins compatible for Editor in 6.35 ms, found 7 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.036 seconds
+Domain Reload Profiling: 6393ms
+	BeginReloadAssembly (1660ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (21ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1092ms)
+	RebuildCommonClasses (213ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (3433ms)
+		LoadAssemblies (3329ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (592ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (562ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1036ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (834ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (209ms)
+			ProcessInitializeOnLoadAttributes (373ms)
+			ProcessInitializeOnLoadMethodAttributes (240ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (22ms)
+Refreshing native plugins compatible for Editor in 6.70 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7327 unused Assets / (3.6 MB). Loaded Objects now: 8244.
+Memory consumption went from 170.5 MB to 166.9 MB.
+Total: 14.724100 ms (FindLiveObjects: 0.639600 ms CreateObjectMapping: 0.723300 ms MarkObjects: 10.812700 ms  DeleteObjects: 2.547300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

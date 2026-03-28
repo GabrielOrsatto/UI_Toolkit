@@ -1,0 +1,54 @@
+:root {
+}
+
+.header {
+    font-size: 1000px;
+    color: rgb(255, 255, 255);
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/ChelaOne-Regular%20SDF%201.asset?fileID=11400000&guid=4e008579d9e985040974fa631b2f2b80&type=2#ChelaOne-Regular SDF 1");
+    -unity-text-align: upper-center;
+    margin-top: 90px;
+    margin-right: 90px;
+    margin-bottom: 90px;
+    margin-left: 90px;
+    -unity-font-style: normal;
+}
+
+.button {
+    font-size: 70px;
+    width: 600px;
+    height: 120px;
+    align-self: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-image: url("project://database/Assets/UI/Textures/UI_atlas.psd?fileID=536820708226765884&guid=68de98d899585b7469e0fb40a0fcbc56&type=3#bt_09");
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    color: rgb(255, 255, 255);
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/ChelaOne-Regular%20SDF%201.asset?fileID=11400000&guid=4e008579d9e985040974fa631b2f2b80&type=2#ChelaOne-Regular SDF 1");
+    transition-duration: 0.5s;
+}
+
+.button:hover {
+    scale: 1.1 1.1;
+    -unity-background-image-tint-color: rgb(26, 26, 26);
+}
+
+.sair {
+    transition-duration: 0.5s;
+    background-color: rgb(0, 0, 0);
+}
+
+.sair:hover {
+    background-color: rgb(0, 0, 0);
+    transition-duration: 0.5s;
+    scale: 1.1 1.1;
+    color: rgb(56, 56, 56);
+}
